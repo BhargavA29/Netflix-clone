@@ -9,7 +9,7 @@ For the Working Demo, visit this site - https://netflix-clone-ochre-zeta.vercel.
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Deployment](#deployment)
-- [License](#license)
+
 
 ## Features
 
@@ -34,5 +34,7 @@ To get a local copy up and running, follow these simple steps.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/BhargavA29/Netflix-clone.git
 cd netflix-clone
+npm install
+npm run dev
