@@ -21,16 +21,16 @@ For the Working Demo, visit this site - https://netflix-clone-ochre-zeta.vercel.
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/homepage.jpg)
 
 ### Sign In Page
-![Login Page](screenshots/signin.png)
+![Login Page](screenshots/signin.jpg)
 
 ### Sign Up Page
-![Login Page](screenshots/signup.png)
+![Login Page](screenshots/signup.jpg)
 
 ### Video Player
-![Video Player](screenshots/videoplayer.png)
+![Video Player](screenshots/videoplayer.jpg)
 
 
 ## Installation
