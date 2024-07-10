@@ -7,10 +7,8 @@ A Netflix clone built using Vite, React, and Firebase for authentication. The pr
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Deployment](#deployment)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
