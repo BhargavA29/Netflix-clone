@@ -1,7 +1,7 @@
 # Netflix Clone
 
 A Netflix clone built using Vite, React, and Firebase for authentication. The project aims to replicate the front-end design and some core functionalities of Netflix.
-For the Working Demo, visit this site - https://netflix-clone-ochre-zeta.vercel.app/ (ignore the Security Warning)
+For the Working Demo, visit this site - [https://netflix-clone-ochre-zeta.vercel.app/](https://streaming-platform-clone-zeta.vercel.app/login) 
 
 ## Table of Contents
 
